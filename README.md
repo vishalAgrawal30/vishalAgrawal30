@@ -18,6 +18,6 @@ I’m also driven to help local businesses grow by creating digital solutions su
 - Git & GitHub  
 
 ## 📫 Contact Me
-- 📧 Email: agrawalvishal3010@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/vishal-agrawal-a4ba44263/
-- [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/vishalAgrawal30) : https://github.com/vishalAgrawal30
+- 📧 Email: [agrawalvishal3010@gmail.com](mailto:agrawalvishal3010@gmail.com)  
+- 💼 LinkedIn: [vishal-agrawal](https://www.linkedin.com/in/vishal-agrawal-a4ba44263/)  
+- 💻 GitHub: [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
