@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi 👋, I'm Vishal Agrawal
 
-<!--
-**vishalAgrawal30/vishalAgrawal30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 MCA Student
+- 💻 Flutter Developer
+- 🌱 Currently learning: Node.js, Backend Development
+- 🎯 Goal: Software Engineer / Govt Tech Role
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- Flutter | Dart  
+- Node.js  
+- MongoDB | PostgreSQL  
+- Git & GitHub  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact Me
+- 📧 Email: agrawalvishal3010@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/vishal-agrawal-a4ba44263/
