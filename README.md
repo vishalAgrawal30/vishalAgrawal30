@@ -21,3 +21,5 @@ I’m also driven to help local businesses grow by creating digital solutions su
 - 📧 Email: [agrawalvishal3010@gmail.com](mailto:agrawalvishal3010@gmail.com)  
 - 💼 LinkedIn: [vishal-agrawal](https://www.linkedin.com/in/vishal-agrawal-a4ba44263/)  
 - 💻 GitHub: [vishalAgrawal30](https://github.com/vishalAgrawal30)
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
